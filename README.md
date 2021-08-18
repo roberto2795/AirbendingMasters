@@ -1,2 +1,2 @@
-# Harnessing-the-Power-of-Wind-to-charge-a-mobile-phone
+#AirbendingMasters
 Pagina web para proyecto de Clubes de Ciencia México 2021
