@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Planteamiento del problema
 
 You can use the [editor on GitHub](https://github.com/roberto2795/Harnessing-the-Power-of-Wind-to-charge-a-mobile-phone/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
